@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/qcsaquds4c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qcsaquds4c" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankita__1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qcsaquds4c" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ankeetaa18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankeetaa18" height="30" width="40" /></a>
 </p>
 
