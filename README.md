@@ -1,4 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=ankita14-p&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita14-p&label=Profile%20views&color=0e75b6&style=flat" alt="ankita14-p" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita14-p" alt="ankita14-p" /></a> </p>
 # 💫 About Me:
 Hi, I'm a passionate **Frontend Developer** with a keen eye for design and user experience. I love crafting responsive and interactive web applications using modern technologies.  <br><br>## 🚀 Contributions  <br>- **Contributor at JWOC 2025**  <br>- Building innovative and user-friendly interfaces  <br>- Exploring new web technologies and best practices  <br><br>## 🔧 Technologies I Work With  <br>- HTML, CSS, JavaScript  <br>- Tailwind CSS<br>- Git, GitHub  <br>
 - 🔭 I’m currently working on **Travel Guide Website**
@@ -27,11 +33,6 @@ Hi, I'm a passionate **Frontend Developer** with a keen eye for design and user 
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita14-p&label=Profile%20views&color=0e75b6&style=flat" alt="ankita14-p" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita14-p" alt="ankita14-p" /></a> </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ankita14-p&limit=5&theme=dark&combine_all_yearly_contributions=true)
