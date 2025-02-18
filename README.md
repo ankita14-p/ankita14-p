@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankita Nag</h1>
 <h3 align="center">Hi, I'm a passionate **Frontend Developer** with a keen eye for design and user experience. I love crafting responsive and interactive web applications using modern technologies.</h3>
-<h3>## 🚀 Contributions - **Contributor at JWOC 2025** - Building innovative and user-friendly interfaces - Exploring new web technologies and best practices</h3>
+<h3>## 🚀 Contributions - **Contributor at JWOC 2025**</h3>
+  <p>- Building innovative and user-friendly interfaces</p>
+  <p>- Exploring new web technologies and best practices</p>
 <h3>## 🔧 Technologies I Work With - HTML, CSS, JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita14-p&label=Profile%20views&color=0e75b6&style=flat" alt="ankita14-p" /> </p>
