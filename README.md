@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ankita Nag</h1>
-<h3 align="center">Hi, I'm a passionate **Frontend Developer** with a keen eye for design and user experience. I love crafting responsive and interactive web applications using modern technologies.</h3>
+<h3 align="center">I'm a **developer** and **AI enthusiast** passionate about building meaningful projects in the fields of **Machine Learning**, **Deep Learning**, and **Web Development**.</h3>
 <h3>## 🚀 Contributions - **Rank 4 at JWOC 2025(Open Source Contribution)**</h3>
   <p>- Building innovative and user-friendly interfaces</p>
   <p>- Exploring new web technologies and best practices</p>
-<h3>## 🔧 Technologies I Work With - HTML, CSS, JavaScript</h3>
+<h3>## 🔧 Technologies I Work With - C,CPP,JAVA,Python, Javascript,Html,CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita14-p&label=Profile%20views&color=0e75b6&style=flat" alt="ankita14-p" /> </p>
 
-- 🔭 I’m currently working on **Travel Guide Website**
+- 🧠 Currently exploring AI applications in healthcare (e.g., cancer detection)
+- 💻 Comfortable with Python, JavaScript, HTML/CSS, and tools like NumPy, Pandas, PyTorch, and TensorFlow
+- 📚 Learning daily through hands-on coding, research papers, and open-source projects
+- 🌱 On a journey to bridge development with intelligent systems
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+---
 
-- 💬 Ask me about **Html,CSS,JS,C,C++,Java**
 
 - 📫 How to reach me **ankeetaa3@gmail.com**
 
