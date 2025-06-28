@@ -3,7 +3,7 @@
 <h3>## 🚀 Contributions - **Rank 4 at JWOC 2025(Open Source Contribution)**</h3>
   <p>- Building innovative and user-friendly interfaces</p>
   <p>- Exploring new web technologies and best practices</p>
-<h3>## 🔧 Technologies I Work With - C,CPP,JAVA,Python, Javascript,Html,CSS</h3>
+<h3>## 🔧 Technologies I Work With - C,CPP,JAVA,Python, Javascript,NumPy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita14-p&label=Profile%20views&color=0e75b6&style=flat" alt="ankita14-p" /> </p>
 
