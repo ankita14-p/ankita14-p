@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita14-p&label=Profile%20views&color=0e75b6&style=flat" alt="ankita14-p" /> </p>
-💫 About Me:   <br>
+💫 About Me:    <br>
 👋 Hi there, I'm Ankita Nag<br>I'm a BCA student passionate about AI/ML, Web Development, and solving real-world problems with technology. Currently working on research projects in cancer detection using AI, I enjoy combining my development skills with scientific research.<br><br>🚀 What I’m Working On:<br>🔬 Review Paper: Colorectal Cancer Detection using AI/ML techniques<br><br>🧠 Projects: Building AI models for pneumonia detection<br><br>💻 Web Dev: Created projects like YatraInsights(Travel Guide website)<br><br><br>💡 Interests:<br>Machine Learning & Deep Learning<br><br>Full-Stack Web Development (Next.js)<br><br>Research in Medical Imaging & AI for Healthcare<br><br>Data Structures and Algorithms<br><br>📚 Currently Learning:<br>📊 Python for ML & AI – NumPy, Pandas, Matplotlib, Scikit-learn<br><br>🧠 Deep Learning – Neural Networks, CNNs, Transfer Learning using TensorFlow and Keras<br><br>🧮 Mathematics for ML – Linear Algebra, Probability, Statistics<br><br>📄 Research Skills – Reading and writing scientific papers in AI & biomedical domains<br><br>
 
 
